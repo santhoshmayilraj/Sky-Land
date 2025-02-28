@@ -4,7 +4,7 @@
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue) 
 ![Deep Learning](https://img.shields.io/badge/Framework-PyTorch-orange)
 
-Hi Again, This is Santhosh, your friendly neighbourhood coder. Alright, let’s do this one last time. Let me explain my story one last time - this is Skyland
+Hi Again, This is Santhosh, your friendly neighbourhood coder. Alright, let’s do this one last time - this is Skyland.
 Welcome to **Skyland**, an innovative project designed to enable safe and optimal drone landings using **semantic segmentation** of aerial images. This system leverages state-of-the-art deep learning models to identify safe landing zones while avoiding obstacles such as buildings, trees, and other hazards.
 
 ---
