@@ -44,7 +44,7 @@ The **Fine-Tuned UNet** outperformed the other models and was selected as the fi
 ## 🚀 How It Works
 
 1. **Data Preparation**:
-   - The Semantic Drone Dataset is automatically downloaded when the code is executed.
+   - Aerial Semantic Segmentation Drone Dataset a freely available dataset that can be downloaded via kaggle - [https://www.kaggle.com/datasets/bulentsiyah/semantic-drone-dataset]
    - Data visualization, augmentation, and preprocessing are handled within the code.
 
 2. **Model Training**:
