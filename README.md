@@ -78,7 +78,7 @@ The **Fine-Tuned UNet** outperformed the other models and was selected as the fi
 
 ## 📧 Contact
 
-For questions or collaborations, feel free to reach out:
+With great code comes great responsibility... this is my gift, my curse. Who am I? Your friendly neighbourhood coder.
 - **Santhosh M**  
 - **Email**: santhoshmayilraj@gmail.com  
 - **GitHub**: [santhoshmayilraj](https://github.com/santhoshmayilraj)  
